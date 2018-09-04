@@ -44,15 +44,20 @@ public class MianBase : MonoBehaviour
 ----------
 ## 工具制作 ##
 效果如图所示
+
 ![](https://i.imgur.com/I8JRpRD.png)
 
-工具制作核心思想
-1. 选中预设父级
-2. 迭代获取子对象和子对象上的脚本
-3. 索引变量名可自动填充可自定义
-4. 序列化类
+> 工具制作核心思想
+> -  选中预设父级
+> -  迭代获取子对象和子对象上的脚本
+> -  索引变量名可自动填充可自定义
+> -  序列化类
 
 
-> 如果您有更好的解决方案，请一定不吝赐教,感谢不尽！
+----------
+
+
+
+*如果您有更好的解决方案，请一定不吝赐教,感谢不尽！*
 
 源码：[https://github.com/QiangZou/ZouQiang/blob/master/Assets/ZouQiang/Editor/AssetBundlesTool.cs](https://github.com/QiangZou/ZouQiang/blob/master/Assets/ZouQiang/Editor/AssetBundlesTool.cs)
