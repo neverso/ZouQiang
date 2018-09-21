@@ -8,7 +8,7 @@ using System.Text;
 public class CreateBaseClassTool : EditorWindow
 {
     public const string className = "{0}Base";
-    public const string saveFile = "{0}/Scripts/BaseClass";
+    public const string saveFile = "{0}/2048/Scripts/BaseClass";
 
     #region Text
 
